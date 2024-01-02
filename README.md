@@ -1,4 +1,4 @@
-![logo](https://github.com/Pream-Day/Pream-Day./blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![logo](https://github.com/Pream-Day/Pream-Day/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Pream Day</h1>
 <h3 align="center">A passionate Data Science Enthusiast. I am also a researcher and a problem-solver, with experience in applying supervised and unsupervised algorithms, image processing, and computer vision to real-world challenges.</h3>
 
